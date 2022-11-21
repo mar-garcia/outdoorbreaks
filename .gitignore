@@ -5,6 +5,8 @@
 *.jpg
 *.png
 
+*.pdf
+
 map_files*
 mapa.pptx
 map.html
